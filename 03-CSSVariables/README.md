@@ -3,7 +3,7 @@
 # 03 - CSS Variables and Js
 ![](images/03_00.png)
 
-view demo [here]()
+view demo [here](https://claudz1.github.io/Js30/03-CSSVariables/index.html)
 
 ***Lessons Learnt***: `:root`, CSS Variables definition var(--xxx), filter: blur(), change event and mousemove event
 
