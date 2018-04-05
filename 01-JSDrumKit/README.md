@@ -5,7 +5,7 @@
 
 ![](http://i.imgur.com/b9r5sEL.jpg)
 
-view demo [here]()
+view demo [here](https://claudz1.github.io/Js30/01-JSDrumKit/index.html)
 
 ### Binding an event to our keys when they are pressed.
 
