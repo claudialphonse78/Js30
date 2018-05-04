@@ -18,7 +18,8 @@ const seconds = timeNodes
 console.log(seconds);
 ```
 will be value of data-time attributes we set on html
-![](images\1_00.png)
+
+![](images/1_00.png)
 _The parseFloat function parses a string argument and returns a floating point number._
 
 Reduce takes in a value and reduces it down to a single value
