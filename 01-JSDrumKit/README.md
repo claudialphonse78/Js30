@@ -28,6 +28,8 @@ We can provide a delay in playing the sound by just adding
 
 ` audio.currentTime=0;` which will reset the audio 
 
+The `propertyName` property returns the name of the CSS property associated with the transition, when a transitionevent occurs.
+
 ### Toggling Styles
 
 - Since we are pressing a key and to show the effect we want to change the css states. This is achieved by using
